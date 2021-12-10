@@ -1,0 +1,2 @@
+svg guidelines   https://developer.mozilla.org/en-US/docs/mozilla/developer_quide/svg_guidelines
+ w3c vibration api   https://www.w3.org/tr/vibration/
